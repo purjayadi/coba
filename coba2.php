@@ -1,4 +1,7 @@
 <?php
 
-    public
+    public function FunctionName($value='')
+    {
+      # code...
+    }
 ?>
